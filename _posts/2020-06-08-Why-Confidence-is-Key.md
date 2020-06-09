@@ -25,6 +25,6 @@ made fun of by your close friends, because you trust them, but don't always feel
 confidence helps students do better in school and be more outgoing.
 
 students who had high self-confidence are proven to:
-1. have much higher test scores
-2. be more outgoing and readily jump into new activities
-3. be more optimistic and generally happy
+* have much higher test scores
+* be more outgoing and readily jump into new activities
+* be more optimistic and generally happy
